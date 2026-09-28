@@ -75,7 +75,7 @@ The MAE of 0.35 means predictions are off by about a third of a point on average
 
 ```bash
 git clone https://github.com/Mayurkale2402/Manas_meter.git
-cd <Manas_meter>
+cd Manas_meter
 pip install -r requirements.txt
 ```
 
@@ -148,4 +148,4 @@ Example response:
 
 ## Author
 
-Made by **<Mayur Kale>** · [GitHub](https://github.com/<Mayurkale2402>)
+Made by **<Mayur Kale>** · [GitHub](https://github.com/Mayurkale2402)
